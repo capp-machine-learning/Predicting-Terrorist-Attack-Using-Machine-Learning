@@ -1,0 +1,188 @@
+[I 22:47:18.873 NotebookApp] Writing notebook server cookie secret to /run/user/1000/jupyter/notebook_cookie_secret
+[I 22:47:19.804 NotebookApp] JupyterLab extension loaded from /home/syb234/anaconda3/lib/python3.7/site-packages/jupyterlab
+[I 22:47:19.804 NotebookApp] JupyterLab application directory is /home/syb234/anaconda3/share/jupyter/lab
+[I 22:47:19.806 NotebookApp] Serving notebooks from local directory: /home/syb234/capp-machine-learning/terrorism-prediction
+[I 22:47:19.806 NotebookApp] The Jupyter Notebook is running at:
+[I 22:47:19.806 NotebookApp] http://(ubuntu-vm or 127.0.0.1):8888/?token=afae10f6b7298187cc1383de083497cb7e65cf0faa53197a
+[I 22:47:19.806 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 22:47:19.810 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///run/user/1000/jupyter/nbserver-18157-open.html
+    Or copy and paste one of these URLs:
+        http://(ubuntu-vm or 127.0.0.1):8888/?token=afae10f6b7298187cc1383de083497cb7e65cf0faa53197a
+[I 22:51:01.861 NotebookApp] JupyterLab extension loaded from /home/syb234/anaconda3/lib/python3.7/site-packages/jupyterlab
+[I 22:51:01.861 NotebookApp] JupyterLab application directory is /home/syb234/anaconda3/share/jupyter/lab
+[I 22:51:01.862 NotebookApp] Serving notebooks from local directory: /home/syb234/capp-machine-learning/terrorism-prediction
+[I 22:51:01.862 NotebookApp] The Jupyter Notebook is running at:
+[I 22:51:01.862 NotebookApp] http://(ubuntu-vm or 127.0.0.1):8888/?token=b3a0cdf3768893994d46ebd7a3afe87495d88b421f12aed6
+[I 22:51:01.862 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 22:51:01.864 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///run/user/1000/jupyter/nbserver-18167-open.html
+    Or copy and paste one of these URLs:
+        http://(ubuntu-vm or 127.0.0.1):8888/?token=b3a0cdf3768893994d46ebd7a3afe87495d88b421f12aed6
+[I 22:54:45.758 NotebookApp] JupyterLab extension loaded from /home/syb234/anaconda3/lib/python3.7/site-packages/jupyterlab
+[I 22:54:45.758 NotebookApp] JupyterLab application directory is /home/syb234/anaconda3/share/jupyter/lab
+[I 22:54:45.759 NotebookApp] Serving notebooks from local directory: /home/syb234/capp-machine-learning/terrorism-prediction
+[I 22:54:45.759 NotebookApp] The Jupyter Notebook is running at:
+[I 22:54:45.759 NotebookApp] http://(ubuntu-vm or 127.0.0.1):8888/?token=372b5ce30be1285ea51af5e62df37982c47d6937e12a7dc6
+[I 22:54:45.759 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 22:54:45.761 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///run/user/1000/jupyter/nbserver-18204-open.html
+    Or copy and paste one of these URLs:
+        http://(ubuntu-vm or 127.0.0.1):8888/?token=372b5ce30be1285ea51af5e62df37982c47d6937e12a7dc6
+[I 22:54:58.301 NotebookApp] 302 GET / (10.0.2.2) 0.99ms
+[I 22:54:58.383 NotebookApp] 302 GET /tree (10.0.2.2) 1.32ms
+[I 22:55:36.516 NotebookApp] Wrote hashed password to /home/syb234/.jupyter/jupyter_notebook_config.json
+[I 22:55:36.516 NotebookApp] 302 POST /login?next=%2Ftree (10.0.2.2) 2.57ms
+[I 22:56:02.846 NotebookApp] Creating new notebook in 
+[I 22:56:02.855 NotebookApp] Writing notebook-signing key to /home/syb234/.local/share/jupyter/notebook_secret
+[I 22:56:04.212 NotebookApp] Kernel started: a3485dc4-9d62-486e-b127-2b127228d738
+[I 22:56:05.281 NotebookApp] Adapting to protocol v5.1 for kernel a3485dc4-9d62-486e-b127-2b127228d738
+[I 22:58:05.048 NotebookApp] Saving file at /functions.ipynb
+[I 23:00:04.749 NotebookApp] Saving file at /functions.ipynb
+[I 23:02:04.733 NotebookApp] Saving file at /functions.ipynb
+[I 23:04:04.760 NotebookApp] Saving file at /functions.ipynb
+[I 23:06:04.750 NotebookApp] Saving file at /functions.ipynb
+[I 23:08:05.406 NotebookApp] Saving file at /functions.ipynb
+[I 23:12:05.350 NotebookApp] Saving file at /functions.ipynb
+[I 23:14:05.379 NotebookApp] Saving file at /functions.ipynb
+[I 23:16:05.374 NotebookApp] Saving file at /functions.ipynb
+[I 00:32:15.549 NotebookApp] Saving file at /functions.ipynb
+[I 00:34:15.526 NotebookApp] Saving file at /functions.ipynb
+[I 00:36:15.517 NotebookApp] Saving file at /functions.ipynb
+[I 00:38:15.513 NotebookApp] Saving file at /functions.ipynb
+[I 00:40:15.591 NotebookApp] Saving file at /functions.ipynb
+[I 00:42:15.517 NotebookApp] Saving file at /functions.ipynb
+[I 00:44:15.518 NotebookApp] Saving file at /functions.ipynb
+[I 00:46:15.521 NotebookApp] Saving file at /functions.ipynb
+[I 00:48:15.522 NotebookApp] Saving file at /functions.ipynb
+[I 00:50:15.525 NotebookApp] Saving file at /functions.ipynb
+[I 01:00:18.836 NotebookApp] Saving file at /functions.ipynb
+[I 01:02:18.836 NotebookApp] Saving file at /functions.ipynb
+[I 01:04:18.841 NotebookApp] Saving file at /functions.ipynb
+[I 01:06:18.841 NotebookApp] Saving file at /functions.ipynb
+[I 01:08:18.842 NotebookApp] Saving file at /functions.ipynb
+[I 01:10:18.845 NotebookApp] Saving file at /functions.ipynb
+[I 01:12:18.870 NotebookApp] Saving file at /functions.ipynb
+[I 01:14:18.857 NotebookApp] Saving file at /functions.ipynb
+[I 01:16:19.115 NotebookApp] Saving file at /functions.ipynb
+[I 01:18:18.872 NotebookApp] Saving file at /functions.ipynb
+[I 01:20:18.903 NotebookApp] Saving file at /functions.ipynb
+[I 01:22:18.867 NotebookApp] Saving file at /functions.ipynb
+[I 01:24:18.886 NotebookApp] Saving file at /functions.ipynb
+[I 01:26:20.133 NotebookApp] Saving file at /functions.ipynb
+[I 01:28:20.153 NotebookApp] Saving file at /functions.ipynb
+[I 01:30:20.159 NotebookApp] Saving file at /functions.ipynb
+[I 01:32:20.133 NotebookApp] Saving file at /functions.ipynb
+[I 01:34:20.137 NotebookApp] Saving file at /functions.ipynb
+[I 01:36:20.788 NotebookApp] Saving file at /functions.ipynb
+[I 01:38:21.342 NotebookApp] Saving file at /functions.ipynb
+[I 01:42:21.776 NotebookApp] Saving file at /functions.ipynb
+[I 01:44:21.796 NotebookApp] Saving file at /functions.ipynb
+[I 01:44:46.533 NotebookApp] Starting buffering for a3485dc4-9d62-486e-b127-2b127228d738:f63e4fc4cf0b44f1827506bc72337242
+[I 01:44:47.168 NotebookApp] Kernel restarted: a3485dc4-9d62-486e-b127-2b127228d738
+[I 01:44:48.014 NotebookApp] Adapting to protocol v5.1 for kernel a3485dc4-9d62-486e-b127-2b127228d738
+[I 01:44:48.015 NotebookApp] Restoring connection for a3485dc4-9d62-486e-b127-2b127228d738:f63e4fc4cf0b44f1827506bc72337242
+[I 01:44:48.015 NotebookApp] Replaying 10 buffered messages
+[I 01:46:21.785 NotebookApp] Saving file at /functions.ipynb
+[I 01:52:22.782 NotebookApp] Saving file at /functions.ipynb
+[I 01:53:32.375 NotebookApp] Starting buffering for a3485dc4-9d62-486e-b127-2b127228d738:f63e4fc4cf0b44f1827506bc72337242
+[I 01:53:32.893 NotebookApp] Kernel restarted: a3485dc4-9d62-486e-b127-2b127228d738
+[I 01:53:33.753 NotebookApp] Adapting to protocol v5.1 for kernel a3485dc4-9d62-486e-b127-2b127228d738
+[I 01:53:33.754 NotebookApp] Restoring connection for a3485dc4-9d62-486e-b127-2b127228d738:f63e4fc4cf0b44f1827506bc72337242
+[I 01:53:33.754 NotebookApp] Replaying 7 buffered messages
+[I 01:54:22.725 NotebookApp] Saving file at /functions.ipynb
+[I 01:56:22.720 NotebookApp] Saving file at /functions.ipynb
+[I 02:02:22.727 NotebookApp] Saving file at /functions.ipynb
+[I 02:06:23.091 NotebookApp] Saving file at /functions.ipynb
+[I 02:08:23.115 NotebookApp] Saving file at /functions.ipynb
+[I 02:10:23.111 NotebookApp] Saving file at /functions.ipynb
+[I 02:12:23.116 NotebookApp] Saving file at /functions.ipynb
+[I 02:16:23.114 NotebookApp] Saving file at /functions.ipynb
+[I 02:24:23.682 NotebookApp] Saving file at /functions.ipynb
+[I 02:28:23.712 NotebookApp] Saving file at /functions.ipynb
+[I 02:28:51.536 NotebookApp] Starting buffering for a3485dc4-9d62-486e-b127-2b127228d738:f63e4fc4cf0b44f1827506bc72337242
+[I 02:28:51.971 NotebookApp] Kernel restarted: a3485dc4-9d62-486e-b127-2b127228d738
+[I 02:28:52.868 NotebookApp] Adapting to protocol v5.1 for kernel a3485dc4-9d62-486e-b127-2b127228d738
+[I 02:28:52.869 NotebookApp] Restoring connection for a3485dc4-9d62-486e-b127-2b127228d738:f63e4fc4cf0b44f1827506bc72337242
+[I 02:28:52.869 NotebookApp] Replaying 10 buffered messages
+[I 02:30:23.702 NotebookApp] Saving file at /functions.ipynb
+[I 02:32:23.702 NotebookApp] Saving file at /functions.ipynb
+[I 02:33:24.980 NotebookApp] Starting buffering for a3485dc4-9d62-486e-b127-2b127228d738:f63e4fc4cf0b44f1827506bc72337242
+[I 02:33:25.504 NotebookApp] Kernel restarted: a3485dc4-9d62-486e-b127-2b127228d738
+[I 02:33:26.312 NotebookApp] Adapting to protocol v5.1 for kernel a3485dc4-9d62-486e-b127-2b127228d738
+[I 02:33:26.313 NotebookApp] Restoring connection for a3485dc4-9d62-486e-b127-2b127228d738:f63e4fc4cf0b44f1827506bc72337242
+[I 02:33:26.313 NotebookApp] Replaying 7 buffered messages
+[I 02:34:23.704 NotebookApp] Saving file at /functions.ipynb
+[I 02:38:23.760 NotebookApp] Saving file at /functions.ipynb
+[I 02:38:26.317 NotebookApp] Starting buffering for a3485dc4-9d62-486e-b127-2b127228d738:f63e4fc4cf0b44f1827506bc72337242
+[I 02:38:27.332 NotebookApp] Adapting to protocol v5.1 for kernel a3485dc4-9d62-486e-b127-2b127228d738
+[I 02:38:27.333 NotebookApp] Restoring connection for a3485dc4-9d62-486e-b127-2b127228d738:f63e4fc4cf0b44f1827506bc72337242
+[I 02:40:23.780 NotebookApp] Saving file at /functions.ipynb
+[I 02:42:23.774 NotebookApp] Saving file at /functions.ipynb
+[I 02:44:23.771 NotebookApp] Saving file at /functions.ipynb
+[I 02:46:23.771 NotebookApp] Saving file at /functions.ipynb
+[I 02:48:23.781 NotebookApp] Saving file at /functions.ipynb
+[I 02:50:23.846 NotebookApp] Saving file at /functions.ipynb
+[I 02:52:24.042 NotebookApp] Saving file at /functions.ipynb
+[I 02:54:24.063 NotebookApp] Saving file at /functions.ipynb
+[I 02:56:24.063 NotebookApp] Saving file at /functions.ipynb
+[I 02:58:24.063 NotebookApp] Saving file at /functions.ipynb
+[I 03:00:24.068 NotebookApp] Saving file at /functions.ipynb
+[I 03:02:24.161 NotebookApp] Saving file at /functions.ipynb
+[I 03:04:24.381 NotebookApp] Saving file at /functions.ipynb
+[I 03:05:06.492 NotebookApp] Saving file at /functions.ipynb
+[I 03:06:24.412 NotebookApp] Saving file at /functions.ipynb
+[I 03:08:24.397 NotebookApp] Saving file at /functions.ipynb
+[I 03:10:24.410 NotebookApp] Saving file at /functions.ipynb
+[I 03:12:24.427 NotebookApp] Saving file at /functions.ipynb
+[I 03:14:24.429 NotebookApp] Saving file at /functions.ipynb
+[I 03:16:24.406 NotebookApp] Saving file at /functions.ipynb
+[I 03:34:08.359 NotebookApp] Saving file at /functions.ipynb
+[I 03:36:25.065 NotebookApp] Saving file at /functions.ipynb
+[I 03:37:33.313 NotebookApp] Kernel interrupted: a3485dc4-9d62-486e-b127-2b127228d738
+[I 03:38:25.065 NotebookApp] Saving file at /functions.ipynb
+[I 03:38:32.054 NotebookApp] Kernel interrupted: a3485dc4-9d62-486e-b127-2b127228d738
+[I 03:40:25.076 NotebookApp] Saving file at /functions.ipynb
+[I 03:42:25.074 NotebookApp] Saving file at /functions.ipynb
+[I 03:44:25.079 NotebookApp] Saving file at /functions.ipynb
+[I 03:46:25.103 NotebookApp] Saving file at /functions.ipynb
+[I 03:48:25.087 NotebookApp] Saving file at /functions.ipynb
+[I 03:50:25.535 NotebookApp] Saving file at /functions.ipynb
+[I 03:55:25.991 NotebookApp] Starting buffering for a3485dc4-9d62-486e-b127-2b127228d738:f63e4fc4cf0b44f1827506bc72337242
+[I 03:55:26.520 NotebookApp] Kernel restarted: a3485dc4-9d62-486e-b127-2b127228d738
+[I 03:55:27.456 NotebookApp] Adapting to protocol v5.1 for kernel a3485dc4-9d62-486e-b127-2b127228d738
+[I 03:55:27.457 NotebookApp] Restoring connection for a3485dc4-9d62-486e-b127-2b127228d738:f63e4fc4cf0b44f1827506bc72337242
+[I 03:55:27.457 NotebookApp] Replaying 10 buffered messages
+[I 03:56:11.039 NotebookApp] Starting buffering for a3485dc4-9d62-486e-b127-2b127228d738:f63e4fc4cf0b44f1827506bc72337242
+[I 03:56:11.559 NotebookApp] Kernel restarted: a3485dc4-9d62-486e-b127-2b127228d738
+[I 03:56:12.415 NotebookApp] Adapting to protocol v5.1 for kernel a3485dc4-9d62-486e-b127-2b127228d738
+[I 03:56:12.416 NotebookApp] Restoring connection for a3485dc4-9d62-486e-b127-2b127228d738:f63e4fc4cf0b44f1827506bc72337242
+[I 03:56:12.416 NotebookApp] Replaying 7 buffered messages
+[I 03:56:25.980 NotebookApp] Saving file at /functions.ipynb
+[I 03:58:25.980 NotebookApp] Saving file at /functions.ipynb
+[I 04:00:25.984 NotebookApp] Saving file at /functions.ipynb
+[I 04:24:26.054 NotebookApp] Saving file at /functions.ipynb
+[I 04:26:26.054 NotebookApp] Saving file at /functions.ipynb
+[I 05:12:35.875 NotebookApp] Saving file at /functions.ipynb
+[I 05:38:42.420 NotebookApp] Starting buffering for a3485dc4-9d62-486e-b127-2b127228d738:f63e4fc4cf0b44f1827506bc72337242
+[I 05:38:44.148 NotebookApp] Adapting to protocol v5.1 for kernel a3485dc4-9d62-486e-b127-2b127228d738
+[I 05:38:44.149 NotebookApp] Restoring connection for a3485dc4-9d62-486e-b127-2b127228d738:f63e4fc4cf0b44f1827506bc72337242
+[I 05:40:42.151 NotebookApp] Saving file at /functions.ipynb
+[I 05:41:05.888 NotebookApp] Starting buffering for a3485dc4-9d62-486e-b127-2b127228d738:f63e4fc4cf0b44f1827506bc72337242
+[I 05:41:10.977 NotebookApp] Kernel restarted: a3485dc4-9d62-486e-b127-2b127228d738
+[I 05:41:11.926 NotebookApp] Adapting to protocol v5.1 for kernel a3485dc4-9d62-486e-b127-2b127228d738
+[I 05:41:11.926 NotebookApp] Restoring connection for a3485dc4-9d62-486e-b127-2b127228d738:f63e4fc4cf0b44f1827506bc72337242
+[I 05:41:11.926 NotebookApp] Replaying 3 buffered messages
+[I 05:42:42.137 NotebookApp] Saving file at /functions.ipynb
+[I 05:44:42.140 NotebookApp] Saving file at /functions.ipynb
+[I 05:45:19.204 NotebookApp] Starting buffering for a3485dc4-9d62-486e-b127-2b127228d738:f63e4fc4cf0b44f1827506bc72337242
+[I 05:45:20.220 NotebookApp] Adapting to protocol v5.1 for kernel a3485dc4-9d62-486e-b127-2b127228d738
+[I 05:45:20.221 NotebookApp] Restoring connection for a3485dc4-9d62-486e-b127-2b127228d738:f63e4fc4cf0b44f1827506bc72337242
+[I 09:11:22.114 NotebookApp] Starting buffering for a3485dc4-9d62-486e-b127-2b127228d738:f63e4fc4cf0b44f1827506bc72337242
+[I 09:11:29.475 NotebookApp] Kernel shutdown: a3485dc4-9d62-486e-b127-2b127228d738
